@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+wskey_local.py
 # Distribution / packaging
 .idea/
 .Python
@@ -128,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/totp2.py
+/totp.py
